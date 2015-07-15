@@ -1,5 +1,5 @@
 # oitec.github.io
 
-OITECのサイト公開用リポジトリ
-サイトテンプレートは以下を利用
+OITEC縺ｮ繧ｵ繧､繝亥�ｬ髢狗畑繝ｪ繝昴ず繝医Μ
+繧ｵ繧､繝医ユ繝ｳ繝励Ξ繝ｼ繝医�ｯ莉･荳九ｒ蛻ｩ逕ｨ
 http://www.blacktie.co/2014/01/stanley-freelancer-theme/
